@@ -3,4 +3,6 @@ Este relatório realizado no PowerBI traz um panorama da prestação de contas d
 
 
 ![Apresentação](Dash1.png)
-
+![Apresentação](Dash2.png)
+![Apresentação](Dash3.png)
+![Apresentação](Dash4.png)
